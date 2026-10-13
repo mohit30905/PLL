@@ -35,7 +35,7 @@ This project focuses on the transistor-level design, hierarchical integration, a
 - **Cadence Virtuoso:** Schematic capture and hierarchical circuit design.
 - **Cadence Spectre:** Transient circuit simulation.
 - **Cadence ViVA:** Waveform visualization and frequency analysis.
-- **gpdk90:** Generic 90 nm CMOS process design kit.
+- **gpdk90:** Generic 45 nm CMOS process design kit.
 - **CMOS Circuit Design:** Transistor-level implementation of logic gates and analog/mixed-signal blocks.
 
 ---
